@@ -26,8 +26,20 @@
       "purpose": "maskable any"
     },
     {
+      "src": "assets/icons/icon-60x60.png",
+      "sizes": "60x60",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
       "src": "assets/icons/icon-72x72.png",
       "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/icons/icon-76x76.png",
+      "sizes": "76x76",
       "type": "image/png",
       "purpose": "maskable any"
     },
