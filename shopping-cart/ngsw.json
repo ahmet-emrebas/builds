@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1612195046771,
+  "timestamp": 1612195646884,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -34,8 +34,10 @@
         "/assets/icons/icon-120x120.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-16x16.png",
         "/assets/icons/icon-192x192.png",
         "/assets/icons/icon-310x310.png",
+        "/assets/icons/icon-36x36.png",
         "/assets/icons/icon-48x48.png",
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png"
@@ -50,15 +52,17 @@
     "/assets/icons/icon-120x120.png": "4cb24b201efbbbf36129a9a14f0620de7d8a7934",
     "/assets/icons/icon-144x144.png": "422ac6af0dd8f58abcb181baa5c0d1ce61a9a127",
     "/assets/icons/icon-152x152.png": "0e632a07da5463557f7abc7c33bea4abfa7fee86",
+    "/assets/icons/icon-16x16.png": "ec3fb8c75ad7b0c2ecbde97825b0c9748908e9e9",
     "/assets/icons/icon-192x192.png": "c5c78428ed2d2a1a529d6d8a6af7f40eb2730ad3",
     "/assets/icons/icon-310x310.png": "d8a5ed2455a5edf2795858c69b669641dd28d72e",
+    "/assets/icons/icon-36x36.png": "34d02cba0a70c77fb343183053f49ef86bc1e74e",
     "/assets/icons/icon-48x48.png": "f05004ab8661670632a4f3c8606b5af2a7aab53d",
     "/assets/icons/icon-72x72.png": "8c6bf5b237d656eda1062d0d32dc53902e070db6",
     "/assets/icons/icon-96x96.png": "beea023006de9f9395a64d80d60921d51cac3306",
     "/favicon.ico": "c6c0fb80eb2db85247ef6c20a2c84002a48f01ae",
     "/index.html": "ee555c217f1d126ec75e5ae1a1b38bfb66ec9ae5",
     "/main.f03fcb578987f0177f9b.js": "04ed3735799e749766999510fa56dec3598446ad",
-    "/manifest.webmanifest": "3fdb1db6357f4e5b21484c9d459e39c2d3b10ce7",
+    "/manifest.webmanifest": "9b1476098b6fdfe900df95a806f351bd2041389e",
     "/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/styles.954d545f0c5c281c8fa0.css": "069025beb1ae115ec0e8cf404192555f341d76ca"
