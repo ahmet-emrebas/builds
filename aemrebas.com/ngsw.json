@@ -1,0 +1,105 @@
+{
+  "configVersion": 1,
+  "timestamp": 1612304913026,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.c4ac71bfb724de5e7f03.js",
+        "/manifest.webmanifest",
+        "/polyfills.6abdde2583a2e01a2350.js",
+        "/runtime.7b63b9fd40098a2e8207.js",
+        "/styles.954d545f0c5c281c8fa0.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/i18n/en.json",
+        "/assets/i18n/tr.json",
+        "/assets/icons/icon-114x114.png",
+        "/assets/icons/icon-120x120.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-150x150.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-180x180.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-310x310.png",
+        "/assets/icons/icon-36x36.png",
+        "/assets/icons/icon-48x48.png",
+        "/assets/icons/icon-57x57.png",
+        "/assets/icons/icon-60x60.png",
+        "/assets/icons/icon-70x70.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/github-icon.png",
+        "/assets/img/linkedin-icon.png",
+        "/assets/img/phone-icon.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/i18n/en.json": "12ca2260c576ab9ddd61e946a18fdf2c4992a5f7",
+    "/assets/i18n/tr.json": "33ff4afa6621d73cdc461f7e21844fb96b17754e",
+    "/assets/icons/icon-114x114.png": "32f7d0e75ad5bf5de294a4ba9533f6995523f073",
+    "/assets/icons/icon-120x120.png": "f4fb8c8eec4f2463cb0155cdaa905066a9dd99e1",
+    "/assets/icons/icon-144x144.png": "f0e09ae02668b748cbb596bc52caa5298fe9bb21",
+    "/assets/icons/icon-150x150.png": "2ca191a9ab56636233d8b76d2a7ab723779ee316",
+    "/assets/icons/icon-152x152.png": "3d541beff2c2396288b17712516b107370fa97fa",
+    "/assets/icons/icon-180x180.png": "542800d3911964966c8118b54db59def65863833",
+    "/assets/icons/icon-192x192.png": "2b49dd5dc7d242321e9adc41b9bfb10833d90ca1",
+    "/assets/icons/icon-310x310.png": "4ae1bf88a892272c4dfaf5ca0a76590175e6e68e",
+    "/assets/icons/icon-36x36.png": "3d2df12eac662aad9040a132a86b5078961d84db",
+    "/assets/icons/icon-48x48.png": "379918ebbd8c39cc04eb502e7f99ae0694e4fa45",
+    "/assets/icons/icon-57x57.png": "1c53b3a640d8a0562bd1445791cebeb93272061c",
+    "/assets/icons/icon-60x60.png": "20653e82ba878aa2fe9a7de331a7a334f6dcd8b0",
+    "/assets/icons/icon-70x70.png": "4a544be67a2e8d1ab0968c0458b1bc661b18f054",
+    "/assets/icons/icon-72x72.png": "477b96ca7480d189cf0391d8f537531e71653faf",
+    "/assets/icons/icon-96x96.png": "79b87a0df88edb2d1b0327a6dec1bae6c97ee556",
+    "/assets/img/github-icon.png": "467d3c8ce2a4bd8a01748d49ebf5ec43989b086a",
+    "/assets/img/linkedin-icon.png": "0317c468d9e4e702e7c0e217a459071094f3de3b",
+    "/assets/img/phone-icon.png": "29bf6800914ac57f751a70004ee1ce2ed37cba9c",
+    "/favicon.ico": "4313dbd9d8acb32a2763da5c8a3404f2120c70ab",
+    "/index.html": "e3fc7ca03e4a70543b12a3cbdd4ca2e6b98a3e23",
+    "/main.c4ac71bfb724de5e7f03.js": "8ea9f4396b2fc4a0158c72dc4d447ac6177bea72",
+    "/manifest.webmanifest": "7f00b5fa5b8a677c4551fac282ed03c607d1c156",
+    "/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
+    "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.954d545f0c5c281c8fa0.css": "069025beb1ae115ec0e8cf404192555f341d76ca"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
