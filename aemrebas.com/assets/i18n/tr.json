@@ -1,5 +1,21 @@
 {
   "APP_NAME": "Ahmet Emrebas",
   "COUNTRY": "TR",
-  "LANG": "TR"
+  "LANG": "TR",
+  "PROFILE": {
+    "TECHNICAL_PROFICIENCIES": "Technical Proficiencies",
+    "JOB_TITLE": "Uzman Mühendis",
+    "SUMMARY": [
+      "Saldırgan ve aceleci yanımı seviyorum çünkü hayatımdaki en iyilerin en iyilerini bulmamda bana çok yardımcı oldu.",
+
+      "Sabır kelimesinin anlamını asla öğrenmeye çalışmadım. Ancak hayat bana bunun hakkında çok şey öğretti. Son zamanlarda sabrın lüks olduğuna inanıyorum ve bence tek ihtiyacım olan şey kendimin en iyi yanını hak edenlere yansıtmak için tutku.",
+
+      "Programlama ve tasarım kendimi sakin ve mutlu bulduğum en büyük tutku ve etkinliklerimden.",
+      "Bilgisayar bilimi yolculuğuma lisede başladım. Visual Basic kullanarak, insanlar için bir şeyler yapabileceğimi hissettiğim için kendimi değerli hissettiren bir hesap makinesi geliştirdim. Ağrısız bir doğum yapmak gibiydi. Bunun gelecekteki kariyerim üzerindeki en büyük etki olduğunu söyleyebiliriz.",
+
+      "Yazılım geliştirme ve tasarım tutkum zamanla büyüdü ve büyüdü, bu da öğrenme yeteneğimi büyük ölçüde artırdı.",
+
+      "Son 3 yıldır freelance web ve mobil geliştirici olarak çalışıyorum ancak kendimi geliştirecek ve kariyerimde büyüyecek pek bir şey bulamadım. Çok yönlü bir takımın parçası olmak istiyorum çünkü öğrenmeye çok açım."
+    ]
+  }
 }

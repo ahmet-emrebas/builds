@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1612305697512,
+  "timestamp": 1612314520241,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.c4ac71bfb724de5e7f03.js",
+        "/main.e155a5e09f968b5e5b58.js",
         "/manifest.webmanifest",
         "/polyfills.6abdde2583a2e01a2350.js",
         "/runtime.7b63b9fd40098a2e8207.js",
@@ -30,6 +30,7 @@
       },
       "urls": [
         "/assets/i18n/en.json",
+        "/assets/i18n/es.json",
         "/assets/i18n/tr.json",
         "/assets/icons/icon-114x114.png",
         "/assets/icons/icon-120x120.png",
@@ -47,16 +48,21 @@
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
         "/assets/img/github-icon.png",
+        "/assets/img/inventory.png",
         "/assets/img/linkedin-icon.png",
-        "/assets/img/phone-icon.png"
+        "/assets/img/message-icon.png",
+        "/assets/img/phone-icon.png",
+        "/assets/img/project-management.png",
+        "/assets/img/shopping-cart.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/i18n/en.json": "12ca2260c576ab9ddd61e946a18fdf2c4992a5f7",
-    "/assets/i18n/tr.json": "33ff4afa6621d73cdc461f7e21844fb96b17754e",
+    "/assets/i18n/en.json": "8dc43215213368d1b25d053a3824e247f10f63f0",
+    "/assets/i18n/es.json": "44990e3cc48b4355d1370e1f308eefed08e48861",
+    "/assets/i18n/tr.json": "3993a6228262e62d13c7310182ec4723d8b36c59",
     "/assets/icons/icon-114x114.png": "32f7d0e75ad5bf5de294a4ba9533f6995523f073",
     "/assets/icons/icon-120x120.png": "f4fb8c8eec4f2463cb0155cdaa905066a9dd99e1",
     "/assets/icons/icon-144x144.png": "f0e09ae02668b748cbb596bc52caa5298fe9bb21",
@@ -73,12 +79,16 @@
     "/assets/icons/icon-72x72.png": "477b96ca7480d189cf0391d8f537531e71653faf",
     "/assets/icons/icon-96x96.png": "79b87a0df88edb2d1b0327a6dec1bae6c97ee556",
     "/assets/img/github-icon.png": "467d3c8ce2a4bd8a01748d49ebf5ec43989b086a",
+    "/assets/img/inventory.png": "54f303667b45b941f6022786e1f4caae9d4787f5",
     "/assets/img/linkedin-icon.png": "0317c468d9e4e702e7c0e217a459071094f3de3b",
+    "/assets/img/message-icon.png": "1f93cd21c61be5768637a3bec88c6f70c6476a8a",
     "/assets/img/phone-icon.png": "29bf6800914ac57f751a70004ee1ce2ed37cba9c",
+    "/assets/img/project-management.png": "d6be6274e66d5dbbbbf37dfe32970232206be765",
+    "/assets/img/shopping-cart.png": "a559784800fc0c23364cc2f4f8bc797584b05d6e",
     "/favicon.ico": "4313dbd9d8acb32a2763da5c8a3404f2120c70ab",
-    "/index.html": "e3fc7ca03e4a70543b12a3cbdd4ca2e6b98a3e23",
-    "/main.c4ac71bfb724de5e7f03.js": "8ea9f4396b2fc4a0158c72dc4d447ac6177bea72",
-    "/manifest.webmanifest": "99d963ff26daa4fefff7b85d79d6b19f12d1fb65",
+    "/index.html": "26b54226c451b03cdb4cc53042c1cb0fecc0a84d",
+    "/main.e155a5e09f968b5e5b58.js": "0944e1667384be17ad8744cae8e31c7007161377",
+    "/manifest.webmanifest": "b5ab7f6138e54cf89e8b3772fb9a8745c1c692fa",
     "/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/styles.954d545f0c5c281c8fa0.css": "069025beb1ae115ec0e8cf404192555f341d76ca"
