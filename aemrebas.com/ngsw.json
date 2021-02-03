@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1612314960105,
+  "timestamp": 1612330259524,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.fd248e72fe924c8a9fff.js",
+        "/main.d3ad2c1c7166a1329027.js",
         "/manifest.webmanifest",
         "/polyfills.6abdde2583a2e01a2350.js",
         "/runtime.7b63b9fd40098a2e8207.js",
-        "/styles.954d545f0c5c281c8fa0.css"
+        "/styles.308fa1bc33ce03b12c2b.css"
       ],
       "patterns": []
     },
@@ -29,6 +29,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/docs/resume.pdf",
         "/assets/i18n/en.json",
         "/assets/i18n/es.json",
         "/assets/i18n/tr.json",
@@ -48,20 +49,28 @@
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
         "/assets/img/github-icon.png",
+        "/assets/img/hire-me-worth.png",
+        "/assets/img/hire-me.png",
         "/assets/img/inventory.png",
         "/assets/img/linkedin-icon.png",
         "/assets/img/message-icon.png",
         "/assets/img/phone-icon.png",
         "/assets/img/project-management.png",
-        "/assets/img/shopping-cart.png"
+        "/assets/img/resume-icon.png",
+        "/assets/img/shopping-cart.png",
+        "/assets/img/wallpaper/1.png",
+        "/assets/img/wallpaper/2.png",
+        "/assets/img/wallpaper/3.png",
+        "/assets/img/wallpaper/4.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/i18n/en.json": "8dc43215213368d1b25d053a3824e247f10f63f0",
-    "/assets/i18n/es.json": "44990e3cc48b4355d1370e1f308eefed08e48861",
+    "/assets/docs/resume.pdf": "977308a5641c14ee9c510c6354959f891fe69530",
+    "/assets/i18n/en.json": "cd2c8a835d72b3cf0a9ab2a24c048719487862c2",
+    "/assets/i18n/es.json": "abd3e9c350f994c14d52253756188742726838f1",
     "/assets/i18n/tr.json": "3993a6228262e62d13c7310182ec4723d8b36c59",
     "/assets/icons/icon-114x114.png": "32f7d0e75ad5bf5de294a4ba9533f6995523f073",
     "/assets/icons/icon-120x120.png": "f4fb8c8eec4f2463cb0155cdaa905066a9dd99e1",
@@ -79,19 +88,26 @@
     "/assets/icons/icon-72x72.png": "477b96ca7480d189cf0391d8f537531e71653faf",
     "/assets/icons/icon-96x96.png": "79b87a0df88edb2d1b0327a6dec1bae6c97ee556",
     "/assets/img/github-icon.png": "467d3c8ce2a4bd8a01748d49ebf5ec43989b086a",
+    "/assets/img/hire-me-worth.png": "1fbd0d1c5d244497eebb40e4f403c8e1001e07b2",
+    "/assets/img/hire-me.png": "0466ba281b8df90a18fb93f294c960ab71a06626",
     "/assets/img/inventory.png": "54f303667b45b941f6022786e1f4caae9d4787f5",
     "/assets/img/linkedin-icon.png": "0317c468d9e4e702e7c0e217a459071094f3de3b",
     "/assets/img/message-icon.png": "1f93cd21c61be5768637a3bec88c6f70c6476a8a",
     "/assets/img/phone-icon.png": "29bf6800914ac57f751a70004ee1ce2ed37cba9c",
     "/assets/img/project-management.png": "d6be6274e66d5dbbbbf37dfe32970232206be765",
+    "/assets/img/resume-icon.png": "d50bd9cfad07ad8f11dd5ab7dcc3666c4c1d5283",
     "/assets/img/shopping-cart.png": "a559784800fc0c23364cc2f4f8bc797584b05d6e",
+    "/assets/img/wallpaper/1.png": "17d7fa0fd41580ada60827e84cb84651c6944500",
+    "/assets/img/wallpaper/2.png": "318ce2e73de9980ad85517f8b9c5b7b31350f07e",
+    "/assets/img/wallpaper/3.png": "71f360276004a631e21150c5cff3d95293a925c3",
+    "/assets/img/wallpaper/4.png": "804268558f92427d929bdbd85c96f66bccaeead3",
     "/favicon.ico": "4313dbd9d8acb32a2763da5c8a3404f2120c70ab",
-    "/index.html": "eca1308749cae2e4fef228e3e0de6ea222209cc3",
-    "/main.fd248e72fe924c8a9fff.js": "88c0957acd4c33f50341fa05f9800f737b80ec3c",
+    "/index.html": "855fd7686b66f7091eab2a50b44cd3ae8335e67e",
+    "/main.d3ad2c1c7166a1329027.js": "a21575aa8f900e6af50ff70eb8c4247c69d0101c",
     "/manifest.webmanifest": "b5ab7f6138e54cf89e8b3772fb9a8745c1c692fa",
     "/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.954d545f0c5c281c8fa0.css": "069025beb1ae115ec0e8cf404192555f341d76ca"
+    "/styles.308fa1bc33ce03b12c2b.css": "069025beb1ae115ec0e8cf404192555f341d76ca"
   },
   "navigationUrls": [
     {
