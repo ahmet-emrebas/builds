@@ -1,7 +1,4 @@
 {
-  "APP_NAME": "Ahmet Emrebas",
-  "COUNTRY": "TR",
-  "LANG": "TR",
   "PROFILE": {
     "TECHNICAL_PROFICIENCIES": "Technical Proficiencies",
     "JOB_TITLE": "Uzman Mühendis",
@@ -17,5 +14,25 @@
 
       "Son 3 yıldır freelance web ve mobil geliştirici olarak çalışıyorum ancak kendimi geliştirecek ve kariyerimde büyüyecek pek bir şey bulamadım. Çok yönlü bir takımın parçası olmak istiyorum çünkü öğrenmeye çok açım."
     ]
+  },
+  "TOOLTIPS": {
+    "TOOLBAR": {
+      "PHONE": "ahmet'i ara",
+      "LINKEDIN": "linkedin profiline bak",
+      "GITHUB": "linkedin profiline bak",
+      "RESUME": "özgeçmişine bak",
+      "MESSAGE": "mesaj yolla"
+    },
+    "BUTTONS": {
+      "VIEW_REPO": "coda bak",
+      "VIEW_APP": "programma bak"
+    }
+  },
+  "PROJECTS": {
+    "SUMMARY": {
+      "PMA": "Harika bir program.",
+      "ECA": "Abi alan alana , satan satana",
+      "IMA": "IvIrZIvIrI Cok Olanlar burda!"
+    }
   }
 }

@@ -1,10 +1,5 @@
 {
-  "APP_NAME": "Ahmet Emrebas",
-  "COUNTRY": "US",
-  "LANG": "EN",
   "PROFILE": {
-    "TECHNICAL_PROFICIENCIES": "Technical Proficiencies",
-    "JOB_TITLE": "Full Stack Engineer",
     "SUMMARY": [
       "I love aggressive and hasty side of myself because it helped me a lot to find the bests of the bests in my life.",
       "I have never tried to learn the meaning of the word, patience. However, life taught me a lot about it. Lately I believe that patience is luxury and I think, all I need is passion to reflect the best part of myself to the ones who deserve.",
@@ -13,5 +8,26 @@
       "My passion of software development and designing has grown and grown over time, which boost my learning ability to the greatest extent.",
       "For the last 3 years, I have been working as a freelance web and mobile developer but I could not find much to improve myself and grow in my career. I want to be a part of a well-rounded team because I am so hungry to learn."
     ]
+  },
+  "TOOLTIPS": {
+    "TOOLBAR": {
+      "PHONE": "Call Ahmet",
+      "LINKEDIN": "View Linkedin Profile",
+      "GITHUB": "View Ahmet's GitHub",
+      "RESUME": "View Ahmet's Resume",
+      "MESSAGE": "Send Message to Ahmet"
+    },
+    "BUTTONS": {
+      "VIEW_REPO": "View Repository",
+      "VIEW_APP": "View Application"
+    }
+  },
+
+  "PROJECTS": {
+    "SUMMARY": {
+      "PMA": "This app is awesome",
+      "ECA": "Briliant Idea",
+      "IMA": "Wooow Man"
+    }
   }
 }
