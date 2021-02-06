@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1612491340655,
+  "timestamp": 1612579793772,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -69,9 +69,9 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/docs/resume.pdf": "bd69b4ab610a7cda8f2cb36a4afa59949784beb6",
-    "/assets/i18n/en.json": "238662ec4524c12804bb96973d731334485a913a",
-    "/assets/i18n/es.json": "23d9fe2933cc5f65d982cfcb575d109d96a5d3ea",
-    "/assets/i18n/tr.json": "e4286a2eb9e209aa494eae52d3140ace782e1bbf",
+    "/assets/i18n/en.json": "ff3d32fa36e096ec0e4fffe80d5a80c7af70c7be",
+    "/assets/i18n/es.json": "ff3d32fa36e096ec0e4fffe80d5a80c7af70c7be",
+    "/assets/i18n/tr.json": "af9eb9d6c63cecdfda38f0277f577982636b2282",
     "/assets/icons/icon-114x114.png": "32f7d0e75ad5bf5de294a4ba9533f6995523f073",
     "/assets/icons/icon-120x120.png": "f4fb8c8eec4f2463cb0155cdaa905066a9dd99e1",
     "/assets/icons/icon-144x144.png": "f0e09ae02668b748cbb596bc52caa5298fe9bb21",
@@ -102,7 +102,7 @@
     "/assets/img/wallpaper/3.png": "71f360276004a631e21150c5cff3d95293a925c3",
     "/assets/img/wallpaper/4.png": "804268558f92427d929bdbd85c96f66bccaeead3",
     "/favicon.ico": "4313dbd9d8acb32a2763da5c8a3404f2120c70ab",
-    "/index.html": "1dffc118ee8bf41835b792290c7215cb3d9824d3",
+    "/index.html": "14eb77c3d6c254220d4c76c78dce41238d49a9e4",
     "/main.e59d679813e9ad163db6.js": "700fd604af70aeb6434afc5287ed70b46f5257e2",
     "/manifest.webmanifest": "b5ab7f6138e54cf89e8b3772fb9a8745c1c692fa",
     "/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
