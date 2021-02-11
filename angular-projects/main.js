@@ -105,7 +105,7 @@ function ChatbotComponent_div_3_Template(rf, ctx) { if (rf & 1) {
 } }
 class ChatbotComponent {
     constructor() {
-        this.isChatOpen = true;
+        this.isChatOpen = false;
         this.message = '';
     }
     ngOnInit() { }
