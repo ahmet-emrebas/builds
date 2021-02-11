@@ -65,34 +65,40 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function ChatbotComponent_button_1_Template(rf, ctx) { if (rf & 1) {
-    const _r3 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "button", 3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function ChatbotComponent_button_1_Template_button_click_0_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r3); const ctx_r2 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](); return ctx_r2.isChatOpen = !ctx_r2.isChatOpen; });
+    const _r4 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "button", 4);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function ChatbotComponent_button_1_Template_button_click_0_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r4); const ctx_r3 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](); return ctx_r3.isChatOpen = !ctx_r3.isChatOpen; });
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "mat-icon");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "smart_toy");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } }
 function ChatbotComponent_mat_card_2_Template(rf, ctx) { if (rf & 1) {
-    const _r5 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "mat-card", 4);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "button", 5);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function ChatbotComponent_mat_card_2_Template_button_click_1_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r5); const ctx_r4 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](); return ctx_r4.isChatOpen = !ctx_r4.isChatOpen; });
+    const _r6 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "mat-card", 5);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "button", 6);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function ChatbotComponent_mat_card_2_Template_button_click_1_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r6); const ctx_r5 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](); return ctx_r5.isChatOpen = !ctx_r5.isChatOpen; });
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "mat-icon");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](3, "close");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "mat-card-content", 6);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "mat-form-field", 7);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "mat-card-content", 7);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "mat-form-field", 8);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "mat-label");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](7, "Let's help you!");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](8, "textarea", 8);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](8, "textarea", 9);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "button", 9);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "button", 10);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10, "Send");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+} }
+function ChatbotComponent_div_3_Template(rf, ctx) { if (rf & 1) {
+    const _r8 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 11);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function ChatbotComponent_div_3_Template_div_click_0_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r8); const ctx_r7 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](); return ctx_r7.isChatOpen = !ctx_r7.isChatOpen; });
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } }
 class ChatbotComponent {
@@ -102,17 +108,20 @@ class ChatbotComponent {
     ngOnInit() { }
 }
 ChatbotComponent.ɵfac = function ChatbotComponent_Factory(t) { return new (t || ChatbotComponent)(); };
-ChatbotComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ChatbotComponent, selectors: [["app-chatbot"]], decls: 3, vars: 2, consts: [["fxLayout", "row", 1, "chatbot-container"], ["mat-mini-fab", "", "class", "mb-1", 3, "click", 4, "ngIf"], ["fxFlex.lt-md", "90vw", 4, "ngIf"], ["mat-mini-fab", "", 1, "mb-1", 3, "click"], ["fxFlex.lt-md", "90vw"], ["mat-mini-fab", "", "color", "gray", 1, "close-button", 3, "click"], [1, "d-flex", "flex-column", "align-items-end", 2, "width", "100%"], ["appearance", "outline", 1, "field"], ["matInput", "", "placeholder", "Message", "autocomplete", "off", 1, "message-input"], ["mat-raised-button", "", "color", "primary"]], template: function ChatbotComponent_Template(rf, ctx) { if (rf & 1) {
+ChatbotComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ChatbotComponent, selectors: [["app-chatbot"]], decls: 4, vars: 3, consts: [["fxLayout", "row", 1, "chatbot-container"], ["mat-mini-fab", "", "class", "mb-1", 3, "click", 4, "ngIf"], ["fxFlex.lt-md", "90vw", 4, "ngIf"], ["class", "ripple", 3, "click", 4, "ngIf"], ["mat-mini-fab", "", 1, "mb-1", 3, "click"], ["fxFlex.lt-md", "90vw"], ["mat-mini-fab", "", "color", "gray", 1, "close-button", 3, "click"], [1, "d-flex", "flex-column", "align-items-end", 2, "width", "100%"], ["appearance", "outline", 1, "field"], ["matInput", "", "placeholder", "Message", "autocomplete", "off", 1, "message-input"], ["mat-raised-button", "", "color", "primary"], [1, "ripple", 3, "click"]], template: function ChatbotComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](1, ChatbotComponent_button_1_Template, 3, 0, "button", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, ChatbotComponent_mat_card_2_Template, 11, 0, "mat-card", 2);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](3, ChatbotComponent_div_3_Template, 1, 0, "div", 3);
     } if (rf & 2) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", !ctx.isChatOpen);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx.isChatOpen);
-    } }, directives: [_angular_flex_layout_flex__WEBPACK_IMPORTED_MODULE_1__["DefaultLayoutDirective"], _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgIf"], _angular_material_button__WEBPACK_IMPORTED_MODULE_3__["MatButton"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_4__["MatIcon"], _angular_material_card__WEBPACK_IMPORTED_MODULE_5__["MatCard"], _angular_flex_layout_flex__WEBPACK_IMPORTED_MODULE_1__["DefaultFlexDirective"], _angular_material_card__WEBPACK_IMPORTED_MODULE_5__["MatCardContent"], _angular_material_form_field__WEBPACK_IMPORTED_MODULE_6__["MatFormField"], _angular_material_form_field__WEBPACK_IMPORTED_MODULE_6__["MatLabel"], _angular_material_input__WEBPACK_IMPORTED_MODULE_7__["MatInput"]], styles: [".message-input[_ngcontent-%COMP%] {\n  max-height: 30px;\n  min-height: 30px;\n  width: 100%;\n  color: #464545;\n  letter-spacing: 1.4px;\n}\n\n.close-button[_ngcontent-%COMP%] {\n  position: absolute;\n  top: -16px;\n  right: -16px;\n  transform: scale(0.8);\n  box-shadow: inset 2px -2px 5px #3f3d3d;\n}\n\n.send-button[_ngcontent-%COMP%] {\n  position: absolute;\n  color: rgba(65, 105, 225, 0.664);\n  bottom: 50px;\n  right: 50px;\n  transform: scale(0.8);\n  box-shadow: inset 2px -2px 5px #3f3d3d;\n}\n\n.field[_ngcontent-%COMP%] {\n  width: 100%;\n}\n\n.chatbot-container[_ngcontent-%COMP%] {\n  cursor: pointer;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uXFwuLlxcLi5cXC4uXFxjaGF0Ym90LmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsZ0JBQUE7RUFDQSxnQkFBQTtFQUNBLFdBQUE7RUFDQSxjQUFBO0VBQ0EscUJBQUE7QUFDRjs7QUFFQTtFQUNFLGtCQUFBO0VBQ0EsVUFBQTtFQUNBLFlBQUE7RUFDQSxxQkFBQTtFQUNBLHNDQUFBO0FBQ0Y7O0FBRUE7RUFDRSxrQkFBQTtFQUNBLGdDQUFBO0VBQ0EsWUFBQTtFQUNBLFdBQUE7RUFDQSxxQkFBQTtFQUNBLHNDQUFBO0FBQ0Y7O0FBRUE7RUFDRSxXQUFBO0FBQ0Y7O0FBZUE7RUFDRSxlQUFBO0FBWkYiLCJmaWxlIjoiY2hhdGJvdC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5tZXNzYWdlLWlucHV0IHtcclxuICBtYXgtaGVpZ2h0OiAzMHB4O1xyXG4gIG1pbi1oZWlnaHQ6IDMwcHg7XHJcbiAgd2lkdGg6IDEwMCU7XHJcbiAgY29sb3I6IHJnYig3MCwgNjksIDY5KTtcclxuICBsZXR0ZXItc3BhY2luZzogMS40cHg7XHJcbn1cclxuXHJcbi5jbG9zZS1idXR0b24ge1xyXG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcclxuICB0b3A6IC0xNnB4O1xyXG4gIHJpZ2h0OiAtMTZweDtcclxuICB0cmFuc2Zvcm06IHNjYWxlKDAuOCk7XHJcbiAgYm94LXNoYWRvdzogaW5zZXQgMnB4IC0ycHggNXB4IHJnYig2MywgNjEsIDYxKTtcclxufVxyXG5cclxuLnNlbmQtYnV0dG9uIHtcclxuICBwb3NpdGlvbjogYWJzb2x1dGU7XHJcbiAgY29sb3I6IHJnYmEoNjUsIDEwNSwgMjI1LCAwLjY2NCk7XHJcbiAgYm90dG9tOiA1MHB4O1xyXG4gIHJpZ2h0OiA1MHB4O1xyXG4gIHRyYW5zZm9ybTogc2NhbGUoMC44KTtcclxuICBib3gtc2hhZG93OiBpbnNldCAycHggLTJweCA1cHggcmdiKDYzLCA2MSwgNjEpO1xyXG59XHJcblxyXG4uZmllbGQge1xyXG4gIHdpZHRoOiAxMDAlO1xyXG59XHJcblxyXG46Om5nLWRlZXAgLm1hdC10b29sdGlwIHtcclxuICAvLyBwYWRkaW5nOiAxMHB4O1xyXG4gIC8vIHdpZHRoOiAyMDBweDtcclxuICAvLyBib3JkZXItcmFkaXVzOiAyMHB4ICFpbXBvcnRhbnQ7XHJcbiAgLy8gYm9yZGVyLWJvdHRvbS1yaWdodC1yYWRpdXM6IDBweCAhaW1wb3J0YW50O1xyXG4gIC8vIC8vIFRPRE8gOiBTZXQgc29tZSBnb29kIGJhY2tncm91bmQgY29sbG9yIGZvciB0b29sdGlwLi4uLi5cclxuICAvLyBib3gtc2hhZG93OiAwcHggMHB4IDNweCByZ2IoNzgsIDc3LCA3NyksIGluc2V0IDNweCAtM3B4IDNweCB3aGl0ZTtcclxuICAvLyBwYWRkaW5nLWxlZnQ6IDIwcHggIWltcG9ydGFudDtcclxuICAvLyBsZXR0ZXItc3BhY2luZzogMS4zcHg7XHJcbiAgLy8gZm9udC1zaXplOiAxNHB0O1xyXG4gIC8vIGZvbnQtZmFtaWx5OiBcIkNhdmVhdFwiLCBjdXJzaXZlO1xyXG59XHJcblxyXG4uY2hhdGJvdC1jb250YWluZXIge1xyXG4gIGN1cnNvcjogcG9pbnRlcjtcclxufVxyXG4iXX0= */"] });
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx.isChatOpen);
+    } }, directives: [_angular_flex_layout_flex__WEBPACK_IMPORTED_MODULE_1__["DefaultLayoutDirective"], _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgIf"], _angular_material_button__WEBPACK_IMPORTED_MODULE_3__["MatButton"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_4__["MatIcon"], _angular_material_card__WEBPACK_IMPORTED_MODULE_5__["MatCard"], _angular_flex_layout_flex__WEBPACK_IMPORTED_MODULE_1__["DefaultFlexDirective"], _angular_material_card__WEBPACK_IMPORTED_MODULE_5__["MatCardContent"], _angular_material_form_field__WEBPACK_IMPORTED_MODULE_6__["MatFormField"], _angular_material_form_field__WEBPACK_IMPORTED_MODULE_6__["MatLabel"], _angular_material_input__WEBPACK_IMPORTED_MODULE_7__["MatInput"]], styles: [".message-input[_ngcontent-%COMP%] {\n  width: 100%;\n  color: #464545;\n  letter-spacing: 1.4px;\n}\n\n.close-button[_ngcontent-%COMP%] {\n  position: absolute;\n  top: -16px;\n  right: -16px;\n  transform: scale(0.8);\n  box-shadow: inset 2px -2px 5px #3f3d3d;\n}\n\n.send-button[_ngcontent-%COMP%] {\n  position: absolute;\n  color: rgba(65, 105, 225, 0.664);\n  bottom: 50px;\n  right: 50px;\n  transform: scale(0.8);\n  box-shadow: inset 2px -2px 5px #3f3d3d;\n}\n\n.field[_ngcontent-%COMP%] {\n  width: 100%;\n}\n\n.chatbot-container[_ngcontent-%COMP%] {\n  cursor: pointer;\n  position: fixed;\n  right: 20px;\n  bottom: 20px;\n  z-index: 90000;\n}\n\n.ripple[_ngcontent-%COMP%] {\n  position: fixed;\n  top: 0px;\n  left: 0px;\n  width: 100vw;\n  height: 100vh;\n  background-color: transparent;\n  pointer-events: all !important;\n  background-color: rgba(56, 55, 55, 0.068);\n  z-index: 80000;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uXFwuLlxcLi5cXC4uXFxjaGF0Ym90LmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsV0FBQTtFQUNBLGNBQUE7RUFDQSxxQkFBQTtBQUNGOztBQUVBO0VBQ0Usa0JBQUE7RUFDQSxVQUFBO0VBQ0EsWUFBQTtFQUNBLHFCQUFBO0VBQ0Esc0NBQUE7QUFDRjs7QUFFQTtFQUNFLGtCQUFBO0VBQ0EsZ0NBQUE7RUFDQSxZQUFBO0VBQ0EsV0FBQTtFQUNBLHFCQUFBO0VBQ0Esc0NBQUE7QUFDRjs7QUFFQTtFQUNFLFdBQUE7QUFDRjs7QUFlQTtFQUNFLGVBQUE7RUFDQSxlQUFBO0VBQ0EsV0FBQTtFQUNBLFlBQUE7RUFDQSxjQUFBO0FBWkY7O0FBZUE7RUFDRSxlQUFBO0VBQ0EsUUFBQTtFQUNBLFNBQUE7RUFDQSxZQUFBO0VBQ0EsYUFBQTtFQUNBLDZCQUFBO0VBQ0EsOEJBQUE7RUFDQSx5Q0FBQTtFQUNBLGNBQUE7QUFaRiIsImZpbGUiOiJjaGF0Ym90LmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLm1lc3NhZ2UtaW5wdXQge1xyXG4gIHdpZHRoOiAxMDAlO1xyXG4gIGNvbG9yOiByZ2IoNzAsIDY5LCA2OSk7XHJcbiAgbGV0dGVyLXNwYWNpbmc6IDEuNHB4O1xyXG59XHJcblxyXG4uY2xvc2UtYnV0dG9uIHtcclxuICBwb3NpdGlvbjogYWJzb2x1dGU7XHJcbiAgdG9wOiAtMTZweDtcclxuICByaWdodDogLTE2cHg7XHJcbiAgdHJhbnNmb3JtOiBzY2FsZSgwLjgpO1xyXG4gIGJveC1zaGFkb3c6IGluc2V0IDJweCAtMnB4IDVweCByZ2IoNjMsIDYxLCA2MSk7XHJcbn1cclxuXHJcbi5zZW5kLWJ1dHRvbiB7XHJcbiAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gIGNvbG9yOiByZ2JhKDY1LCAxMDUsIDIyNSwgMC42NjQpO1xyXG4gIGJvdHRvbTogNTBweDtcclxuICByaWdodDogNTBweDtcclxuICB0cmFuc2Zvcm06IHNjYWxlKDAuOCk7XHJcbiAgYm94LXNoYWRvdzogaW5zZXQgMnB4IC0ycHggNXB4IHJnYig2MywgNjEsIDYxKTtcclxufVxyXG5cclxuLmZpZWxkIHtcclxuICB3aWR0aDogMTAwJTtcclxufVxyXG5cclxuOjpuZy1kZWVwIC5tYXQtdG9vbHRpcCB7XHJcbiAgLy8gcGFkZGluZzogMTBweDtcclxuICAvLyB3aWR0aDogMjAwcHg7XHJcbiAgLy8gYm9yZGVyLXJhZGl1czogMjBweCAhaW1wb3J0YW50O1xyXG4gIC8vIGJvcmRlci1ib3R0b20tcmlnaHQtcmFkaXVzOiAwcHggIWltcG9ydGFudDtcclxuICAvLyAvLyBUT0RPIDogU2V0IHNvbWUgZ29vZCBiYWNrZ3JvdW5kIGNvbGxvciBmb3IgdG9vbHRpcC4uLi4uXHJcbiAgLy8gYm94LXNoYWRvdzogMHB4IDBweCAzcHggcmdiKDc4LCA3NywgNzcpLCBpbnNldCAzcHggLTNweCAzcHggd2hpdGU7XHJcbiAgLy8gcGFkZGluZy1sZWZ0OiAyMHB4ICFpbXBvcnRhbnQ7XHJcbiAgLy8gbGV0dGVyLXNwYWNpbmc6IDEuM3B4O1xyXG4gIC8vIGZvbnQtc2l6ZTogMTRwdDtcclxuICAvLyBmb250LWZhbWlseTogXCJDYXZlYXRcIiwgY3Vyc2l2ZTtcclxufVxyXG5cclxuLmNoYXRib3QtY29udGFpbmVyIHtcclxuICBjdXJzb3I6IHBvaW50ZXI7XHJcbiAgcG9zaXRpb246IGZpeGVkO1xyXG4gIHJpZ2h0OiAyMHB4O1xyXG4gIGJvdHRvbTogMjBweDtcclxuICB6LWluZGV4OiA5MDAwMDtcclxufVxyXG5cclxuLnJpcHBsZSB7XHJcbiAgcG9zaXRpb246IGZpeGVkO1xyXG4gIHRvcDogMHB4O1xyXG4gIGxlZnQ6IDBweDtcclxuICB3aWR0aDogMTAwdnc7XHJcbiAgaGVpZ2h0OiAxMDB2aDtcclxuICBiYWNrZ3JvdW5kLWNvbG9yOiB0cmFuc3BhcmVudDtcclxuICBwb2ludGVyLWV2ZW50czogYWxsICFpbXBvcnRhbnQ7XHJcbiAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSg1NiwgNTUsIDU1LCAwLjA2OCk7XHJcbiAgei1pbmRleDogODAwMDA7XHJcbn1cclxuIl19 */"] });
 
 
 /***/ }),
@@ -682,16 +691,14 @@ class AppComponent {
     }
 }
 AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdirectiveInject"](_common_navigation__WEBPACK_IMPORTED_MODULE_3__["AeNavigationService"])); };
-AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], decls: 5, vars: 0, consts: [["main-content-top", ""], [1, "chat-bot"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
+AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], decls: 4, vars: 0, consts: [["main-content-top", ""]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "ae-navigation");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementContainerStart"](1, 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](2, "router-outlet");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementContainerEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](3, "div", 1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](4, "app-chatbot");
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-    } }, directives: [_common_navigation_ae_navigation_component__WEBPACK_IMPORTED_MODULE_4__["AeNavigationComponent"], _angular_router__WEBPACK_IMPORTED_MODULE_5__["RouterOutlet"], _common_chatbot_chatbot_component__WEBPACK_IMPORTED_MODULE_6__["ChatbotComponent"]], styles: [".chat-bot[_ngcontent-%COMP%] {\n  position: fixed;\n  right: 20px;\n  bottom: 20px;\n  z-index: 90000;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uXFwuLlxcYXBwLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsZUFBQTtFQUVBLFdBQUE7RUFDQSxZQUFBO0VBQ0EsY0FBQTtBQUFGIiwiZmlsZSI6ImFwcC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5jaGF0LWJvdCB7XHJcbiAgcG9zaXRpb246IGZpeGVkO1xyXG5cclxuICByaWdodDogMjBweDtcclxuICBib3R0b206IDIwcHg7XHJcbiAgei1pbmRleDogOTAwMDA7XHJcblxyXG59XHJcbiJdfQ== */"] });
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](3, "app-chatbot");
+    } }, directives: [_common_navigation_ae_navigation_component__WEBPACK_IMPORTED_MODULE_4__["AeNavigationComponent"], _angular_router__WEBPACK_IMPORTED_MODULE_5__["RouterOutlet"], _common_chatbot_chatbot_component__WEBPACK_IMPORTED_MODULE_6__["ChatbotComponent"]], styles: [".chat-bot[_ngcontent-%COMP%] {\n  position: fixed;\n  right: 20px;\n  bottom: 20px;\n  z-index: 90000;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uXFwuLlxcYXBwLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsZUFBQTtFQUVBLFdBQUE7RUFDQSxZQUFBO0VBQ0EsY0FBQTtBQUFGIiwiZmlsZSI6ImFwcC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5jaGF0LWJvdCB7XHJcbiAgcG9zaXRpb246IGZpeGVkO1xyXG5cclxuICByaWdodDogMjBweDtcclxuICBib3R0b206IDIwcHg7XHJcbiAgei1pbmRleDogOTAwMDA7XHJcbn1cclxuIl19 */"] });
 
 
 /***/ }),
